@@ -1,0 +1,9 @@
+{
+  "name": "aws.rds.first-setup",
+  "database": {
+    "host": "database-2.cgrwipm8gfhz.us-east-2.rds.amazonaws.com",
+    "user": "admin",
+    "database": "database-1-instance-1",
+    "port": 3306
+  }
+}

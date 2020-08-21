@@ -1,0 +1,30 @@
+{
+  "name": "aws.rds.first-setup",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TessavWalstijn/aws.rds.first-setup.git"
+  },
+  "author": "Tessa E. van Walstijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TessavWalstijn/aws.rds.first-setup/issues"
+  },
+  "homepage": "https://github.com/TessavWalstijn/aws.rds.first-setup#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "config": "^3.3.1",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  }
+}
